@@ -1,0 +1,6 @@
+/Users/yurii_halas/RiderProjects/LearningDotNetFramework/bin/Debug/LearningDotNetFramework.exe
+/Users/yurii_halas/RiderProjects/LearningDotNetFramework/bin/Debug/LearningDotNetFramework.pdb
+/Users/yurii_halas/RiderProjects/LearningDotNetFramework/obj/Debug/LearningDotNetFramework.csproj.AssemblyReference.cache
+/Users/yurii_halas/RiderProjects/LearningDotNetFramework/obj/Debug/LearningDotNetFramework.csproj.CoreCompileInputs.cache
+/Users/yurii_halas/RiderProjects/LearningDotNetFramework/obj/Debug/LearningDotNetFramework.exe
+/Users/yurii_halas/RiderProjects/LearningDotNetFramework/obj/Debug/LearningDotNetFramework.pdb
