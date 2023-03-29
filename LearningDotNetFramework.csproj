@@ -12,6 +12,7 @@
         <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+        <LangVersion>8</LangVersion>
     </PropertyGroup>
     <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
         <PlatformTarget>AnyCPU</PlatformTarget>
@@ -39,9 +40,23 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="Program.cs" />
+        <Compile Include="classes\Abstraction.cs" />
+        <Compile Include="classes\AccessModifiers.cs" />
+        <Compile Include="classes\Casting.cs" />
+        <Compile Include="classes\Interface.cs" />
+        <Compile Include="classes\MyArray.cs" />
+        <Compile Include="classes\MyMethods.cs" />
+        <Compile Include="classes\MyString.cs" />
+        <Compile Include="classes\Overridence.cs" />
+        <Compile Include="classes\Program.cs" />
+        <Compile Include="classes\Student.cs" />
+        <Compile Include="classes\Iheritance.cs" />
+        <Compile Include="classes\Variables.cs" />
+        <Compile Include="enums\Months.cs" />
+        <Compile Include="enums\Runner.cs" />
+        <Compile Include="exceptions\MyException.cs" />
+        <Compile Include="files\Files.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
-        <Compile Include="Variables.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

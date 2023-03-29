@@ -4,7 +4,7 @@ namespace LearningDotNetFramework
 {
     public class Variables
     {
-        public static void runVars()
+        public static void RunVars()
         {
             //Names can contain letters, digits and the underscore character (_)
             //Names must begin with a letter

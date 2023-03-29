@@ -6,7 +6,7 @@ namespace LearningDotNetFramework
     {
         public static void Main(string[] args)
         {
-            Variables.runVars();
+            MyString.RunMyString();
         }
 
         //private static void NewMethod(out string name)
